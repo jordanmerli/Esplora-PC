@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="GetDrives and Files">
+</Property><Property Name="File di soluzione" Value="C:\Users\merli\Desktop\GetDrives and Files\GetDrives and Files.sln">
+</Property><Property Name="Date" Value="lunedì 1 ottobre 2012">
+</Property><Property Name="Time" Value="20:26">
+</Property></Properties><Event ErrorLevel="0" Project="Files Operation" Source="Files Operation\Files Operation.vbproj" Description="Conversione progetto completata">
+</Event><Event ErrorLevel="3" Project="Files Operation" Source="Files Operation\Files Operation.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="GetDrives and Files.sln" Description="Soluzione convertita correttamente">
+</Event><Event ErrorLevel="3" Project="" Source="GetDrives and Files.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Files Operation" Source="Files Operation\Files Operation.vbproj" Description="Analisi completa: aggiornamento non necessario per i file di progetto.">
+</Event></UpgradeLog>

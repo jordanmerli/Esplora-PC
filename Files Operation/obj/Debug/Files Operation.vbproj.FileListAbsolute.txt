@@ -1,0 +1,55 @@
+C:\Users\merli\Desktop\GetDrives and Files\Files Operation\bin\Files Operation.exe
+C:\Users\merli\Desktop\GetDrives and Files\Files Operation\bin\Files Operation.pdb
+C:\Users\merli\Desktop\GetDrives and Files\Files Operation\bin\Files Operation.xml
+C:\Users\merli\Desktop\GetDrives and Files\Files Operation\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\merli\Desktop\GetDrives and Files\Files Operation\obj\Debug\Files_Operation.Form1.resources
+C:\Users\merli\Desktop\GetDrives and Files\Files Operation\obj\Debug\Files_Operation.FrmAbout.resources
+C:\Users\merli\Desktop\GetDrives and Files\Files Operation\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\merli\Desktop\GetDrives and Files\Files Operation\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\merli\Desktop\GetDrives and Files\Files Operation\obj\Debug\Files Operation.exe
+C:\Users\merli\Desktop\GetDrives and Files\Files Operation\obj\Debug\Files Operation.xml
+C:\Users\merli\Desktop\GetDrives and Files\Files Operation\obj\Debug\Files Operation.pdb
+C:\Users\merli\Desktop\Giada & Jordan\Nanoteck™\GetDrives and Files\Files Operation\obj\Debug\Files Operation.exe
+C:\Users\merli\Desktop\Giada & Jordan\Nanoteck™\GetDrives and Files\Files Operation\obj\Debug\Files Operation.xml
+C:\Users\merli\Desktop\Giada & Jordan\Nanoteck™\GetDrives and Files\Files Operation\obj\Debug\Files Operation.pdb
+C:\Users\merli\Desktop\Giada & Jordan\Nanoteck™\GetDrives and Files\Files Operation\bin\Files Operation.exe
+C:\Users\merli\Desktop\Giada & Jordan\Nanoteck™\GetDrives and Files\Files Operation\bin\Files Operation.pdb
+C:\Users\merli\Desktop\Giada & Jordan\Nanoteck™\GetDrives and Files\Files Operation\bin\Files Operation.xml
+C:\Users\merli\Desktop\Giada & Jordan\Nanoteck™\GetDrives and Files\Files Operation\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\merli\Desktop\Giada & Jordan\Nanoteck™\GetDrives and Files\Files Operation\obj\Debug\Files_Operation.Form1.resources
+C:\Users\merli\Desktop\Giada & Jordan\Nanoteck™\GetDrives and Files\Files Operation\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\merli\Desktop\Giada & Jordan\Nanoteck™\GetDrives and Files\Files Operation\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\merli\Desktop\Giada & Jordan\Nanoteck™\GetDrives and Files\Files Operation\obj\Debug\Files_Operation.Resources.resources
+C:\Users\merli\Desktop\Giada & Jordan\Nanoteck™\Progetti\GetDrives and Files\Files Operation\obj\Debug\Files Operation.exe
+C:\Users\merli\Desktop\Giada & Jordan\Nanoteck™\Progetti\GetDrives and Files\Files Operation\obj\Debug\Files Operation.xml
+C:\Users\merli\Desktop\Giada & Jordan\Nanoteck™\Progetti\GetDrives and Files\Files Operation\obj\Debug\Files Operation.pdb
+C:\Users\merli\Desktop\Giada & Jordan\Nanoteck™\Progetti\GetDrives and Files\Files Operation\bin\Files Operation.exe
+C:\Users\merli\Desktop\Giada & Jordan\Nanoteck™\Progetti\GetDrives and Files\Files Operation\bin\Files Operation.pdb
+C:\Users\merli\Desktop\Giada & Jordan\Nanoteck™\Progetti\GetDrives and Files\Files Operation\bin\Files Operation.xml
+C:\Users\merli\Desktop\Giada & Jordan\Nanoteck™\Progetti\GetDrives and Files\Files Operation\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\merli\Desktop\Giada & Jordan\Nanoteck™\Progetti\GetDrives and Files\Files Operation\obj\Debug\Files_Operation.Form1.resources
+C:\Users\merli\Desktop\Giada & Jordan\Nanoteck™\Progetti\GetDrives and Files\Files Operation\obj\Debug\Files_Operation.Resources.resources
+C:\Users\merli\Desktop\Giada & Jordan\Nanoteck™\Progetti\GetDrives and Files\Files Operation\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\merli\Desktop\Giada & Jordan\Nanoteck™\Progetti\GetDrives and Files\Files Operation\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\MERLI\Desktop\Giada & Jordan\Nanoteck™\Progetti\Revisionati dal 01.12.2012\GetDrives and Files\GetDrives and Files\Files Operation\obj\Debug\Files Operation.exe
+C:\Users\MERLI\Desktop\Giada & Jordan\Nanoteck™\Progetti\Revisionati dal 01.12.2012\GetDrives and Files\GetDrives and Files\Files Operation\obj\Debug\Files Operation.xml
+C:\Users\MERLI\Desktop\Giada & Jordan\Nanoteck™\Progetti\Revisionati dal 01.12.2012\GetDrives and Files\GetDrives and Files\Files Operation\obj\Debug\Files Operation.pdb
+C:\Users\MERLI\Desktop\Giada & Jordan\Nanoteck™\Progetti\Revisionati dal 01.12.2012\GetDrives and Files\GetDrives and Files\Files Operation\bin\Files Operation.exe
+C:\Users\MERLI\Desktop\Giada & Jordan\Nanoteck™\Progetti\Revisionati dal 01.12.2012\GetDrives and Files\GetDrives and Files\Files Operation\bin\Files Operation.pdb
+C:\Users\MERLI\Desktop\Giada & Jordan\Nanoteck™\Progetti\Revisionati dal 01.12.2012\GetDrives and Files\GetDrives and Files\Files Operation\bin\Files Operation.xml
+C:\Users\MERLI\Desktop\Giada & Jordan\Nanoteck™\Progetti\Revisionati dal 01.12.2012\GetDrives and Files\GetDrives and Files\Files Operation\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MERLI\Desktop\Giada & Jordan\Nanoteck™\Progetti\Revisionati dal 01.12.2012\GetDrives and Files\GetDrives and Files\Files Operation\obj\Debug\Files_Operation.Form1.resources
+C:\Users\MERLI\Desktop\Giada & Jordan\Nanoteck™\Progetti\Revisionati dal 01.12.2012\GetDrives and Files\GetDrives and Files\Files Operation\obj\Debug\Files_Operation.Resources.resources
+C:\Users\MERLI\Desktop\Giada & Jordan\Nanoteck™\Progetti\Revisionati dal 01.12.2012\GetDrives and Files\GetDrives and Files\Files Operation\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\MERLI\Desktop\Giada & Jordan\Nanoteck™\Progetti\Revisionati dal 01.12.2012\GetDrives and Files\GetDrives and Files\Files Operation\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\MERLI\Desktop\Giada & Jordan\Nanoteck™\Progetti\Revisionati dal 01.12.2012\GetDrives and Files\GetDrives and Files\Files Operation\obj\Debug\Files_Operation.Form2.resources
+C:\Users\rstore\Box Sync\Progetti\GetDrives and Files\Files Operation\obj\Debug\Files Operation.exe
+C:\Users\rstore\Box Sync\Progetti\GetDrives and Files\Files Operation\obj\Debug\Files Operation.xml
+C:\Users\rstore\Box Sync\Progetti\GetDrives and Files\Files Operation\obj\Debug\Files Operation.pdb
+C:\Users\rstore\Box Sync\Progetti\GetDrives and Files\Files Operation\bin\Files Operation.exe
+C:\Users\rstore\Box Sync\Progetti\GetDrives and Files\Files Operation\bin\Files Operation.pdb
+C:\Users\rstore\Box Sync\Progetti\GetDrives and Files\Files Operation\bin\Files Operation.xml
+C:\Users\rstore\Box Sync\Progetti\GetDrives and Files\Files Operation\obj\Debug\Files_Operation.Form1.resources
+C:\Users\rstore\Box Sync\Progetti\GetDrives and Files\Files Operation\obj\Debug\Files_Operation.Form2.resources
+C:\Users\rstore\Box Sync\Progetti\GetDrives and Files\Files Operation\obj\Debug\Files_Operation.Resources.resources
+C:\Users\rstore\Box Sync\Progetti\GetDrives and Files\Files Operation\obj\Debug\Files Operation.vbproj.GenerateResource.Cache
